@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "cucumber": "^6.0.7"
+  },
+  "dependencies": {
+    "jest": "^29.7.0",
+    "puppeteer": "^23.10.4"
+  },
+  "name": "tp_budjet",
+  "version": "1.0.0",
+  "description": "- Ajouter une dépense ou un revenu\r - Calculer le solde total\r - Afficher la répartition par catégorie",
+  "main": "budgetApp.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
